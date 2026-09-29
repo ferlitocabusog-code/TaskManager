@@ -11,3 +11,10 @@ Features:
 - Edit Task
 - Delete Task
 - Update Status
+
+## How the System Works (Step by Step)
+
+### Step 1: Task List
+The home page shows all tasks with their name, description, status, and due date.
+
+![Task List](screenshots/01-task-list.png)
